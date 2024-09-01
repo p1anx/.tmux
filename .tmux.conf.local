@@ -442,8 +442,8 @@ set -g @continuum-restore 'on'
 #===============================================================================
 #                             my config
 #===============================================================================
-set -g @plugin 'tmux-plugins/tmux-urlview'
-set -g @urlview-key 'm'
+#set -g @plugin 'tmux-plugins/tmux-urlview'
+#set -g @urlview-key 'm'
 
 # -- custom variables ----------------------------------------------------------
 
