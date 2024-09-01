@@ -443,7 +443,7 @@ set -g @continuum-restore 'on'
 #                             my config
 #===============================================================================
 set -g @plugin 'tmux-plugins/tmux-urlview'
-set -g @urlview-key 'x'
+set -g @urlview-key 'C-x'
 
 # -- custom variables ----------------------------------------------------------
 
